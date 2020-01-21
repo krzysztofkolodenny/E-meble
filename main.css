@@ -1,0 +1,122 @@
+body
+{
+
+	background-color: #2F3336;
+	color: #efefef;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color:#f8f9fa;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+
+.left
+{
+	float: left;
+	display:inline;
+}
+.right
+{
+	float: right;
+	display:inline;
+}
+
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+}
+
+.jumpers p
+{
+	margin-bottom: 30px;
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.navbar_kontakt_pomoc
+{
+	min-height: 57px;
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+
+}
+
+
+.bg-jumpers
+{
+	background-color: #138496; !important;
+}
+
+.bg-jumpers_kontakt_pomoc
+{
+	background-color: #138496; !important;
+
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+}
+
+.footer{
+	background-color: #138496; !important;
+}
+
+.close {
+	float: right;
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 1;
+	color: #000;
+	text-shadow: 0 1px 0 #fff;
+	filter: alpha(opacity=20);
+	opacity: .2;
+}
+.close:hover,
+.close:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+	filter: alpha(opacity=50);
+	opacity: .5;
+}
+
+
+.alert div,
+.alert span{
+	padding-left: 5px;
+	display:table-cell;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background-color: #138496;
+}
+
+
