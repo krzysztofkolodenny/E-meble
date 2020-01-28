@@ -8,7 +8,7 @@
     <title>E-meble</title>
     <meta name="description" content="Aplikacja do zarządzania magazynem mebli">
     <meta name="keywords" content="magazyn,meble">
-    <meta name="author" content="Julia Kalinowska,Krzysztof Kołodenny">
+    <meta name="author" content="Krzysztof Kołodenny">
     <meta http-equiv="X-Ua-Compatible" content="IE=edge">
 
 
@@ -38,7 +38,7 @@
 
     <nav class="navbar navbar-dark bg-jumpers_kontakt_pomoc navbar-expand-lg">
 
-        <a class="navbar-brand" href="index.html"><img src="img/logo.png" width="30" height="30" class="d-inline-block mr-1 align-bottom" alt=""> E-meble</a>
+        <a class="navbar-brand" href="index.php"><img src="img/logo.png" width="30" height="30" class="d-inline-block mr-1 align-bottom" alt=""> E-meble</a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu" aria-controls="mainmenu" aria-expanded="false" aria-label="Przełącznik nawigacji">
             <span class="navbar-toggler-icon"></span>
@@ -49,24 +49,24 @@
             <ul class="navbar-nav mr-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html"> Start </a>
+                    <a class="nav-link" href="index.php"> Start </a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="zaloguj.html"> Zaloguj </a>
+                    <a class="nav-link" href="zaloguj.php"> Zaloguj </a>
 
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="rejestracja.html"> Załóż konto </a>
+                    <a class="nav-link" href="rejestracja.php"> Załóż konto </a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="pomoc.html"> Pomoc </a>
+                    <a class="nav-link" href="pomoc.php"> Pomoc </a>
                 </li>
 
                 <li class="nav-item active">
-                    <a class="nav-link" href="kontakt.html"> Kontakt </a>
+                    <a class="nav-link" href="kontakt.php"> Kontakt </a>
                 </li>
 
             </ul>
