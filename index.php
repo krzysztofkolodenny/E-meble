@@ -8,7 +8,7 @@
     <title>E-meble</title>
     <meta name="description" content="Aplikacja do zarządzania magazynem mebli">
     <meta name="keywords" content="magazyn,meble">
-    <meta name="author" content="Julia Kalinowska,Krzysztof Kołodenny">
+    <meta name="author" content="Krzysztof Kołodenny">
     <meta http-equiv="X-Ua-Compatible" content="IE=edge">
 
 

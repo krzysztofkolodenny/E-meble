@@ -6,7 +6,6 @@ function searchFunction()
     filter = input.value.toUpperCase();
     table=document.getElementById('mytable');
     tr=document.getElementsByTagName('tr');
-
     for (i=0; i<tr.length; i++)
     {
         td = tr[i].getElementsByTagName("td")[1];
